@@ -1,7 +1,7 @@
 ---
-name: Peer Review Submission
-about: Feedback from peers
-title: Peer review
+name: Project Submission
+about: Entering your Public Project
+title: Project Submission
 labels: ''
 assignees: ''
 ---
